@@ -1,6 +1,8 @@
 # Excel-Bold-Formula
 Excel Formula for Bold Text
 
+![Bold Formula](/repository/asset/imgbold.png?raw=true "Employee Data title")
+
 ```vb
 Function BOLD(txt As String) As String
 Dim X() As Byte
